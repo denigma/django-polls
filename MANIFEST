@@ -9,9 +9,12 @@ polls/urls.py
 polls/view.py
 polls/views.py
 polls/templates/polls
+polls/templates/polls/base.html
+polls/templates/polls/base.html~
 polls/templates/polls/detail.html
 polls/templates/polls/detail.html~
 polls/templates/polls/index.html
 polls/templates/polls/index.html.save
 polls/templates/polls/index.html~
 polls/templates/polls/results.html
+polls/templates/polls/results.html~
