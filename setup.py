@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='django-polls',
-    version='0.4',
+    version='0.5',
     packages=['polls'],
     package_data={'polls': ['templates/polls']},
     license='',

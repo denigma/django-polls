@@ -10,6 +10,7 @@ polls/view.py
 polls/views.py
 polls/templates/polls
 polls/templates/polls/base.html
+polls/templates/polls/base.html.save
 polls/templates/polls/base.html~
 polls/templates/polls/detail.html
 polls/templates/polls/detail.html~
